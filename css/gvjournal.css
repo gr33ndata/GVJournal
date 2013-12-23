@@ -1,5 +1,28 @@
 .blue-logo {
     color: #428bca;
-    font-size:180%;
+    font-size:200%;
     font-family: 'Oleo Script Swash Caps', cursive;
 }
+
+.orange-logo {
+    color: #f0ad4e;
+    font-size:180%;
+    text-indent:15px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+}
+
+.white-text{
+    color: #ffffff;
+    font-size:130%;
+    font-family: 'Georgia';
+    text-indent:15px;
+    font-style:italic;
+}
+
+.map-bg{
+    background-image: url(/img/map-eu.jpg); 
+    background-color: #000000
+    background-repeat:no-repeat;
+    background-position:left top; 
+    border: 2px solid black;   
+}    
