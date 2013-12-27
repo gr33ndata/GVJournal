@@ -21,8 +21,13 @@
 
 .map-bg{
     background-image: url(/GVJournal/img/map-eu.jpg); 
-    background-color: #000000
+    background-color: #000000;
     background-repeat:no-repeat;
     background-position:left top; 
     border: 2px solid black;   
 }    
+
+.black-bg{
+    background-color: #000000;
+    border: 2px solid black;  
+}  
