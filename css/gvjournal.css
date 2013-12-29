@@ -18,6 +18,12 @@
     font-style:italic;
 }
 
+.btn-link-white, .btn-link-white:hover, .btn-link-white:focus, .btn-link-white:active {
+    color: #aaaaaa;
+    font-size:90%;
+    font-family: 'Georgia';
+}    
+
 .map-bg{
     background-image: url(/GVJournal/img/map-eu.jpg); 
     background-color: #000000;
