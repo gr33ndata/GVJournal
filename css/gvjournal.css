@@ -24,6 +24,10 @@
     font-family: 'Georgia';
 }    
 
+.label-big{
+    font-size:110%;
+}
+    
 .map-bg{
     background-image: url(/GVJournal/img/map-eu.jpg); 
     background-color: #000000;
